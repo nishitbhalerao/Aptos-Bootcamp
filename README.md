@@ -90,6 +90,7 @@ Crowdfunding::contribute_to_project(&bob, @alice, 200);
 
 This module is provided as a sample for educational and development purposes.
 You may modify and use it in your own Aptos blockchain projects.
+<img width="1366" height="760" alt="Aptos Transaction SS" src="https://github.com/user-attachments/assets/8b907c2e-6797-40f9-8565-af9c90d82557" />
 
 ---
 
