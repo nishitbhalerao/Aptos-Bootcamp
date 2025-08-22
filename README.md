@@ -91,4 +91,3 @@ You may modify and use it in your own Aptos blockchain projects.
 
 ---
 
-Do you also want me to **add deployment instructions** (with CLI commands for Aptos move publish & test)?
