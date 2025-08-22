@@ -17,6 +17,8 @@ It allows project owners to create crowdfunding projects with funding goals and 
 ## 📂 Module Structure
 
 ```move
+<img width="1366" height="760" alt="22 08 2025_11 25 38_REC" src="https://github.com/user-attachments/assets/353839c9-5e94-4c13-b6fd-fd436593c75d" />
+
 module MyModule::Crowdfunding {
     struct Project {
         total_funds: u64,  // Total tokens raised
